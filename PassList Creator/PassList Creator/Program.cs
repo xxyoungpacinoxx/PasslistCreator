@@ -15,7 +15,13 @@ namespace PassList_Creator
 
             Console.Write("Enter File Adress: ");
             string FileAdress = Console.ReadLine();
-            StreamReader SR = new StreamReader(FileAdress);
+            Console.Write("Enter File Name & Format (pass.txt): ");
+            string FileName = Console.ReadLine();
+
+            StreamReader SR = new StreamReader($@"{FileAdress}\{FileName}");
+            //StreamWriter SW = new StreamWriter($@"{FileAdress}\{FileName}");
+
+            Console.WriteLine($@"{FileAdress}\{FileName}");
             Console.ReadKey();
         }
     }
