@@ -12,7 +12,10 @@ namespace PassList_Creator
     {
         static void Main(string[] args)
         {
-            
+
+            Console.Write("Enter File Adress: ");
+            string FileAdress = Console.ReadLine();
+            StreamReader SR = new StreamReader(FileAdress);
             Console.ReadKey();
         }
     }
