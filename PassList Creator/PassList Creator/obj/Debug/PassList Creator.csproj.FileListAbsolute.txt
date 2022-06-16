@@ -1,0 +1,8 @@
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\bin\Debug\PassList Creator.exe.config
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\bin\Debug\PassList Creator.exe
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\bin\Debug\PassList Creator.pdb
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\obj\Debug\PassList Creator.csproj.AssemblyReference.cache
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\obj\Debug\PassList Creator.csproj.SuggestedBindingRedirects.cache
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\obj\Debug\PassList Creator.csproj.CoreCompileInputs.cache
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\obj\Debug\PassList Creator.exe
+D:\YoungPacino\Programing\Git\Project\PassList Creator\PassList Creator\PassList Creator\obj\Debug\PassList Creator.pdb
