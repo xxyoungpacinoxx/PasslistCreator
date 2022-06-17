@@ -12,16 +12,32 @@ namespace PassList_Creator
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter File Adress: ");
-            string FileAdress = Console.ReadLine();
-            Console.Write("Enter FileName & Format: ");
-            string FileName = Console.ReadLine();
+            
+            Console.WriteLine("Welcome To This Project ...");
+            do
+            {
+                Console.Write
+                ("R. ReadFile \tW. WriteLine \nSelect --> ");
+                char Menu = Convert.ToChar(Console.ReadLine());
+                switch (Menu)
+                {
+                    case 'R':
 
-            StreamW SW = new StreamW(FileAdress,FileName);
-            Console.WriteLine("Write Text: ");
-            SW.FileData = Console.ReadLine().ToString();
-            SW.WriteFile();
+
+                        break;
+
+                    case 'W':
+
+                        break;
+
+                    default:
+                        Console.Write("\nInput False!\n");
+                        break;
+                }
+            } while (true);
+
             Console.ReadKey();
         }
+
     }
 }
